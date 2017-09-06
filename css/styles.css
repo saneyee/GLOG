@@ -1,0 +1,15 @@
+.different {
+  color: crimson;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+.similiar {
+  color: teal;
+  font-variant-east-asian: normal;
+  font-size: 20px;
+}
+
+body {
+  background-color: skyblue;
+}
